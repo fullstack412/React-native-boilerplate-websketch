@@ -6,7 +6,7 @@
   "description": "",
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "dependencies": {
-    "auth0-js": "^8.12.2",
+    "auth0-js": "^9.13.2",
     "expo": "^24.0.2",
     "express": "^4.16.2",
     "react": "^16.0.0",
